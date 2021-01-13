@@ -1,0 +1,15 @@
+{
+    "name": "gzdsx-validate",
+    "version": "1.0.0",
+    "description": "validator for js",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "validator"
+    ],
+    "author": "xy113 <songdewei@163.com>",
+    "license": "MIT"
+}
